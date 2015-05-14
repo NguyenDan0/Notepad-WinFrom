@@ -1,0 +1,9 @@
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\bin\Debug\NotepadProgram.exe.config
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\bin\Debug\NotepadProgram.exe
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\bin\Debug\NotepadProgram.pdb
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.csprojResolveAssemblyReference.cache
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.Form1.resources
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.Properties.Resources.resources
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.csproj.GenerateResource.Cache
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.exe
+c:\users\nguyendan\documents\visual studio 2013\Projects\NotepadProgram\NotepadProgram\obj\Debug\NotepadProgram.pdb
